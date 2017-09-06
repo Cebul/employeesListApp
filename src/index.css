@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Pangolin', cursive;
+  background: #222;
+}
+.navbar-brand span {
+  font-size: 35px;
+  float: left;
+}
+.navbar-header {
+  height: 70px;
+}
+.navbar-brand h3 {
+  float:left;
+  margin-top: 5px;
+  margin-left: 10px;
+
+}
+.App {
+  text-align: center;
+  background: #ccc;
+  padding: 10px 40px;
+}
+.label-item {
+  font-family: sans-serif;
+}
+.employ-delete {
+  height: 30px;
+  width: 30px;
+  font-size: 20px;
+}
+.emp-addheading {
+  font-family: sans-serif;
+}
+.emp-addheading:hover {
+  cursor: pointer;
+}
+.add-employ {
+  font-family: sans-serif;
+}
+footer {
+  font-family: sans-serif;
+}
+footer p {
+  text-align: center;
+  color: #fff;
+}
